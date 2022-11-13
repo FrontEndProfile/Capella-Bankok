@@ -43,6 +43,7 @@ header.header .head-links li .add-to-basket .dropdown-menu .btn {
 
 .arrow-breadcrumbs li.processed a {
   color: black !important;
+  text-decoration: none;
 }
 
 .radio-container .checkmark,
